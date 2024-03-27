@@ -2,24 +2,18 @@
 
 ## Schedule:
 
-- Webinar 1: April 15   
-- Webinar 2: April 29 
-- Webinar 3: May 3
+- Webinar 1 (April 15th): Q&A session mainly focusing on notebooks 1 and 2, but happy to answer any questions.
+- Webinar 2 (April 29th): Q&A session mainly focusing on notebooks 3 and 4, but happy to answer any questions. 
+- Webinar 3 (May 3rd): Optional additional Q&A sesion if required, can answer anything left unclear from the previous two sesisons.
 
 ## setup
-Run the notebooks on Collab
+The notebooks have been setup to run on Google Collab
 
-webinar 1 - Discuss anything but mainly focusing on notebooks 1 and 2
-webinar 2 - Discuss anything but mainly focus on notebooks 2 and 3
-webinar 3 - Anything Optional (if required)
+# Intro to Image Analysis Notebook 1
 
-# Exercises for Webinar 1
+The exercises in the first notebook will refresh your image analysis knowledge and teach basic image analysis methods in python with scikit-image.
+- `1_intro_to_Image_Analysis.ipynb`: image analysis refresher on data from the Kaggle Data Science Bowl for nucleus segmentation. 
 
-The exercise for the first webinar will refresh your image analysis knowledge and teach basic image analysis methods in python with scikit-image.
-Please finish the following exercise before the first webinar:
-- `image_analysis.ipynb`: image analysis refresher on data from the Kaggle Data Science Bowl for nucleus segmentation. 
-
-If you are familiar with image analysis with scikit-image already you can also skip this exercise.
 If you are unfamiliar with image analysis or python in general, please check out the additional materials below. 
 
 ## Additional materials:
@@ -47,27 +41,17 @@ If you are unfamiliar with image analysis or python in general, please check out
  * [Python image manipulation tools](https://opensource.com/article/19/3/python-image-manipulation-tools)
 
 
- # Exercises for Webinar 2
+ # Image Classification with pytorch Notebooks 2-4:
 
-We provide exercises for pytorch and keras.
-
-## Pytorch
+We provide exercises for pytorch.
 
 Exercises for Image Classification with pytorch. Contains the following exercises:
-- `pytorch/1_data_preparation`: pytorch dataloader for classification. 
-- `pytorch/2_logistic_regression`: image classification with a simple logistic regression model. 
-- `pytorch/3_multi_layer_perceptron`: image classification with a multi-layer perceptron. 
+- `2_Data_Preparation.ipynb`: pytorch dataloader for classification. 
+- `3_Logistic_Regression.ipynb`: image classification with a simple logistic regression model. 
+- `4_Multi_Layer_Perceptron.ipynb`: image classification with a multi-layer perceptron. 
 
 All the exercises use the [CIFAR10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
-For the pytorch exercises, please use the `DL Course(Pytorch)` environment in BAND. You can start it via `Applications->Programming->DL Course(Pytorch)`.
 
-## tensorflow/keras
-
-Here we will perform a simple classification task that will show you the basics of using tensorflow/keras.  
-
-- `keras/classification_simple_keras.ipynb`: Basic demonstration of a feature classification example with a Multi layer perceptron (MLP) using tensorflow/keras
-
-For the keras exercises, please use the `DL Course(Keras)` environment in BAND. You can start it via `Applications->Programming->DL Course(Keras)`.
 
 ## Content
 
