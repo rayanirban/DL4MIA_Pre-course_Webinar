@@ -6,7 +6,7 @@
 
 - Webinar 1 (April 15th 14:00-17:00 CEST): Q&A session mainly focusing on notebooks 1 and 2, but happy to answer any questions.
 - Webinar 2 (April 29th 14:00-17:00 CEST): Q&A session mainly focusing on notebooks 3 and 4, but happy to answer any questions. 
-- Webinar 3 (May 3rd 14:00-17:00 CEST): Optional additional Q&A sesion if required, can answer anything left unclear from the previous two sesisons.
+- Webinar 3 (May 3rd 14:00-17:00 CEST): Optional additional Q&A session if required, can answer anything left unclear from the previous two sessions.
 
 ## setup
 The notebooks have been setup to run on Google Collab
