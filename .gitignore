@@ -2,3 +2,6 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .ipynb_checkpoints
+images*/
+run*/
+cifar10*/
